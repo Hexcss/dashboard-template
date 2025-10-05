@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "ZentraBox",
+    "welcome": "Welcome to ZentraBox",
+    "description": "Your private digital infrastructure, reimagined."
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "settings": "Settings"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "switch_light_mode": "Switch to light mode",
+    "switch_dark_mode": "Switch to dark mode",
+    "switch_language": "Switch language"
+  }
+}

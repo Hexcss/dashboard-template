@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "ZentraBox",
+    "welcome": "Bienvenido a ZentraBox",
+    "description": "Tu infraestructura digital privada, reinventada."
+  },
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "settings": "Configuración"
+  },
+  "actions": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "switch_light_mode": "Cambiar a modo claro",
+    "switch_dark_mode": "Cambiar a modo oscuro",
+    "switch_language": "Cambiar idioma"
+  }
+}
